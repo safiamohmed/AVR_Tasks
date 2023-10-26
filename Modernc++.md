@@ -1,10 +1,14 @@
 # MODERN C++
-
+- What Modern C++
 - Important Modern c++
 -  wchar_t
 - Ranged For Loop
 - Function
 
+
+------
+### Important Modern C++
+-  Modern C++ means the program code is written to take advantage of those later standards within the industry.
 
 
 ------
