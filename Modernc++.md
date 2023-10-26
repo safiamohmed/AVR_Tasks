@@ -7,7 +7,7 @@
 
 
 ------
-### Important Modern C++
+### What Modern C++
 -  Modern C++ means the program code is written to take advantage of those later standards within the industry.
 
 
