@@ -12,7 +12,7 @@
 ### Important Modern c++
 
 - Important in the field of embedded systems
-- most company need knowledge abut c++
+- most company needed knowledge abut c++
 
 -------
 
