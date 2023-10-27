@@ -1,5 +1,5 @@
 # MODERN C++
-- What Modern C++
+- What's Modern C++
 - Important Modern c++
 - char
 - Ranged For Loop
@@ -7,7 +7,7 @@
 
 
 ------
-### What Modern C++
+### What's Modern C++
 -  Modern C++ means the program code is written to take advantage of those later standards within the industry.
 
 
