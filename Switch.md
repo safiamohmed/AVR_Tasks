@@ -18,7 +18,7 @@
 
 ### 1- Mechanical 
 
-- A mechanical switch can be described as any switch in which the client must depress a button or other surface to cause a movement in the device thus activating the switch
+- A mechanical switch can be described as any switch in which the client must depress a button or other surface to cause a movement in the device thus activating the switch.
 
   ![](https://ehpruexzv8r.exactdn.com/wp-content/uploads/2020/02/l22t-anti-vandal-switch.jpg?strip=all&lossy=1&w=372&ssl=1)
 
