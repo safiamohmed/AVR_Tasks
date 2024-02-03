@@ -1,6 +1,6 @@
 # Switch
 
--------------------------
+
 
 ## -What is a Switch?
 
@@ -8,7 +8,7 @@
 
 - A Switch is a device which is designed to interrupt the current flow in a circuit. In simple words, a Switch can make or break an electrical circuit. Every electrical and electronics application uses at least one switch to perform ON and OFF operation of the device.
 
---------------------
+
 
 ## -Types Of Switches
 
