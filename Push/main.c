@@ -48,8 +48,8 @@ int main (){
 		/*some button draw shape*/
 
 		if(button_u8GetPressed(B5)==0){
-while(button_u8GetPressed(B5)==0){
-		if(button_u8GetPressed(B1)==0){
+                    while(button_u8GetPressed(B5)==0){
+		         if(button_u8GetPressed(B1)==0){
 
 
 			LED_voidOn(LED1);
@@ -122,7 +122,7 @@ while(button_u8GetPressed(B5)==0){
 
 		/*traffic light*/
 		else if(button_u8GetPressed(B4)==0){
-while(button_u8GetPressed(B4)==0){
+                    while(button_u8GetPressed(B4)==0){
 			LED_voidOn(LED7);
 			_delay_ms(3000000);
 			LED_voidOff(LED7);
