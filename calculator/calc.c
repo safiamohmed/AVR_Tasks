@@ -22,8 +22,8 @@ void calc(){
 
 
 	u8 Local_u8GetPressed;
-	u8 opration1[16];
-	u8 opration2[16];
+	u8 opration1[16]={};
+	u8 opration2[16]={};
 	u8 coun1,coun2,code;
 	LED_Confgration LED1={DIO_PORTB,DIO_PIN0,DIO_HIGH};
 	LED_voidInit(LED1);
