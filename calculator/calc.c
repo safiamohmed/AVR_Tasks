@@ -126,9 +126,13 @@ void calc(){
 		break;
 	case '/':
 		res=res1/res2;
+		if(res2==0){
 
 
-		LCD_voidWriteNumber(res);
+			LCD_voidSendString("Math Error");
+		}else{
+			LCD_voidWriteNumber(res);
+		}
 
 		break;
 	default:
