@@ -91,9 +91,9 @@ void calc(){
 	}
 
 
-	u8 res1 = atoi(opration1);
-	u8 res2 = atoi(opration2);
-	u8 res;
+	u32 res1 = atoi(opration1);
+	u32 res2 = atoi(opration2);
+	u32 res;
 
 	LCD_voidGoToXY(1,0);
 
