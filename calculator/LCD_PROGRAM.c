@@ -126,27 +126,7 @@ void LCD_voidWriteNumber(u32 copy_u32Number)
 		}
 	}
 }
-void CLCD_voidSendNumber   ( u32 Copy_s64Number    ){
 
-	u32 LOC_u64Reversed = 1 ;
-	if( Copy_s64Number == 0 ){ LCD_voidSendData('0'); }
-
-	else{
-
-		while( Copy_s64Number != 0 ){
-
-			LOC_u64Reversed = ( LOC_u64Reversed * 10 ) + ( Copy_s64Number % 10 );
-			Copy_s64Number /= 10 ;
-
-		}
-		while( LOC_u64Reversed != 1 ){
-
-			LCD_voidSendData( ( LOC_u64Reversed % 10 ) + 48 );
-			LOC_u64Reversed /= 10 ;
-
-		}
-
-	}}
 
 void LCD_voidClearScreen(void){
 	LCD_voidSendCommand(DISPLAY_Clr);
